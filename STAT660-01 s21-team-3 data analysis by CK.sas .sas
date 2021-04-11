@@ -2,7 +2,6 @@
 **************** 80-character banner for column width reference ***************;
 * (set window width to banner width to calibrate line length to 80 characters *;
 *******************************************************************************;
-
 /*
 create macro variable with path to directory where this file is located,
 enabling relative imports
